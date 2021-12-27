@@ -15,3 +15,10 @@ print(type(tuple))
 tuple=type('Python')
 print("\ntuple usingfunction")
 print(tuple)
+
+#Dictionary
+dic={'name':'vaibhav','age':20}
+print(dic['name'])
+print(dic['age'])
+#error
+print(dic['address'])

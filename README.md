@@ -26,4 +26,5 @@ also perform varioys operations on each Object with help of built-in methods -- 
 ### Basic Questions: solve it and upload 
 1. write a python script/program to add two numbers. (int and float)
 2. create a list of type integer and find min, max,sum , avg also count the number of each objects inside the list and print the list in reverse order
+3. Python program show removing duplicate letters from a string , keep unique srtring and find the length 
 

@@ -21,3 +21,9 @@ also perform varioys operations on each Object with help of built-in methods -- 
 3. string
 4. set
 5. dict
+
+## task 4
+### Basic Questions: solve it and upload 
+1. write a python script/program to add two numbers. (int and float)
+2. write a python program 
+

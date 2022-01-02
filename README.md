@@ -16,7 +16,7 @@
 ## taks 3 
 ### show the syntax and usage of below python data structures (Demonstrating)
 also perform varioys operations on each Object with help of built-in methods -- all possible methos on each data structer 
-1. List
+1. List : append(),clear(),copy(),count(),extend(),index(),insert(),pop(),remove(),reverse(),sort()
 2. tuple
 3. string
 4. set

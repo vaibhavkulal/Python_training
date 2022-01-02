@@ -10,4 +10,13 @@
 1. Create folder with your name on Desktop
 2. Add python files to that folder 
 3. Upload the folder using drag and drop
-4. continue add new files in git using *create new* files option 
+4. continue add new files in git using *create new* files option
+
+## taks 3 
+### show the syntax and usage of below python data structures (Demonstrating)
+also perform varioys operations on each Object with help of built-in methods
+1. List
+2. tuple
+3. string
+4. set
+5. dict

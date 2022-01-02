@@ -7,7 +7,7 @@
   * Create Project and set env in Pycharm 
 
 ## task 2
-1. Create folde with your name on Desktop
+1. Create folder with your name on Desktop
 2. Add python files to that folder 
 3. Upload the folder using drag and drop
 4. continue add new files in git using *create new* files option 

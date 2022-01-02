@@ -7,6 +7,7 @@
   * Create Project and set env in Pycharm 
 
 ## task 2
+##### Data types and varibles 
 1. Create folder with your name on Desktop
 2. Add python files to that folder 
 3. Upload the folder using drag and drop

@@ -17,10 +17,10 @@
 ### show the syntax and usage of below python data structures (Demonstrating)
 also perform varioys operations on each Object with help of built-in methods -- all possible methos on each data structer 
 1. List : append(),clear(),copy(),count(),extend(),index(),insert(),pop(),remove(),reverse(),sort()
-2. tuple
-3. string
-4. set
-5. dict
+2. tuple : count(),index()
+3. string: strip(), split(), capitalize(), count(),endswith(),find(),format(),isalnum(),lower() and others
+4. set: add(),discard(),union(),difference(),intersection(),symmetric_difference(),issubset()
+5. dict:  items(), keys(), get(), values(),update()
 
 ## task 4
 ### Basic Questions: solve it and upload 

@@ -25,5 +25,5 @@ also perform varioys operations on each Object with help of built-in methods -- 
 ## task 4
 ### Basic Questions: solve it and upload 
 1. write a python script/program to add two numbers. (int and float)
-2. write a python program 
+2. create a list of type integer and find min, max,sum , avg also count the number of each objects inside the list and print the list in reverse order
 

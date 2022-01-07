@@ -1,0 +1,46 @@
+# "capitalize"
+string = "python is AWesome."
+print(string)
+capitalized_string = string.capitalize()
+print('Capitalized String:', capitalized_string)
+
+# "center"
+string = "Python is awesome"
+new_string = string.center(24)
+print("Centered String: ", new_string)
+
+# "count"
+string = "Python is awesome, isn't it?"
+substring = "is"
+count = string.count(substring)
+print("The count is:", count)
+
+# "strip"
+message = '     Learn Python  '
+print(message)
+print('Message:', message.strip())
+
+# "split"
+text = 'Python is a fun programming language'
+print(text.split(' '))
+
+#"endswith"
+message = 'Python is fun'
+print(message.endswith('fun'))
+
+#"find"
+message = 'Python is a fun programming language'
+print(message.find('is'))
+
+#"format"
+print("Hello {0},where is your {1}.".format("Vinay", "HOME"))
+
+#"islower"
+s = 'th!s is a1so g00d'
+print(s.islower())
+s = 'this is Not good'
+print(s.islower())
+
+#"Lower"
+message = 'PYTHON IS FUN'
+print(message.lower())

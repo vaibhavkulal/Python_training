@@ -1,0 +1,10 @@
+# "count()"
+tuple=(1,2,3,8,4,5,6,7,8,8,9)
+print(tuple)
+c=tuple.count(8)
+print(c)
+
+# "index"
+print("\n",tuple)
+i=tuple.index(3)
+print("index value of 3 is =",i)

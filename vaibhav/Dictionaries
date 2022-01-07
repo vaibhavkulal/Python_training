@@ -1,0 +1,19 @@
+#"items"
+marks = {'Physics':67, 'Maths':87}
+print(marks.items())
+
+#"keys"
+person = {'name': 'Vaibhav', 'age': 20, 'salary': 35000}
+print(person.keys())
+
+#"gets"
+print(marks.get('Physics'))
+
+#"values"
+print(marks.values())
+
+#"update"
+print(marks)
+internal_marks = {'Practical':48}
+marks.update(internal_marks)
+print(marks)

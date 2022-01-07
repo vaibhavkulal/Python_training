@@ -1,0 +1,51 @@
+#"union"
+A={2,3,6}
+print(A)
+B={1,3,5}
+print(B)
+print("A U B",A.union(B))
+
+#"intersection"
+print("\n",A)
+print(B)
+print("A intersection B=",A.intersection(B))
+
+#"difference"
+print("\n",A)
+print(B)
+print("A difference B=",A.difference(B))
+print("B difference A=",B.difference(A))
+
+#"Symmetric Difference"
+print("\n",A)
+print(B)
+C={}
+print("A symmetric_difference B",A.symmetric_difference(B))
+print("B symmetric_difference A",B.symmetric_difference(A))
+print("A symmetric_difference C",A.symmetric_difference(C))
+print("B symmetric_difference C",B.symmetric_difference(C))
+
+#"update"
+print("\n",A)
+D={9,7,5,4,3}
+print(D)
+r=A.update(D)
+print("updated  A=",A)
+print(D)
+
+#"SET ADD"
+print("\n",A)
+A.add(23)
+print(A)
+
+#"Clear"
+print("\n",A)
+A.clear()
+print(A)
+
+#"isdisjoint"
+S={1,2,3,4}
+R={5,6,7}
+W={4,5,6}
+print("S and R disjoint=",S.isdisjoint(R))
+print("S and W disjoint=",S.isdisjoint(W))

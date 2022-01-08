@@ -1,0 +1,12 @@
+#"Program on string (removing duplicate,keep unique,length)"
+
+string="vaibhav"
+print("Before removing duplicate from String:",string)
+print("length=",len(string),"\n")
+p=""
+for char in string:
+    if char not in p:
+        p=p+char
+        print(p)
+print("\nAfter removing duplicate from String:",p)
+print("length=",len(p))

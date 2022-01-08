@@ -1,0 +1,24 @@
+# to add int or float number
+a=input("enter the number")
+print(a)
+b=input("enter the nmuber")
+print(b)
+s=float(a)+float(b)
+print("Sum of {0} and {1} = {2}".format(a,b,s))
+
+# add int nmber
+c=input("enter the integer number")
+print(c)
+d=input("enter the integer number")
+print(d)
+s=int(c)+int(d)
+print("Sum of {0} and {1} = {2}".format(c,d,s))
+
+# add floating point nmber
+c=input("enter the integer number")
+print(c)
+d=input("enter the integer number")
+print(d)
+s=float(c)+float(d)
+s="{:.2f}".format(s)
+print("Sum of {0} and {1} = {2}".format(c,d,s))

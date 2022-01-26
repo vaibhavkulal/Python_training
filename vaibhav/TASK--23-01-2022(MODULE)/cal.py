@@ -1,6 +1,6 @@
 import calculatons
 def swtich():
-    print("1->Addition\n2->subtraction\n3->FIND age\n4->Multiplication\n5->Division\n6->SIMPLE INTEREST\n7->leap year")
+    print("1->Addition\n2->subtraction\n3->FIND age\n4->Multiplication\n5->Division\n6->SIMPLE INTEREST\n7->leap year\n8->division(useing Exception")
     option=int(input("enter your choice"))
 
     if option==1:
@@ -50,6 +50,13 @@ def swtich():
         print("LRAP YEAR")
         year=int(input("enter the year\n"))
         calculatons.ye(year)
+     elif option==8:
+        a = int(input("enter the number\n"))
+        b = int(input("enter thye number\n"))
+     try:
+       print(div.d(a,b))
+     except Exception as e:
+       print("Exception:-",e)
     else:
         print("Incorrect Selection")
 swtich()

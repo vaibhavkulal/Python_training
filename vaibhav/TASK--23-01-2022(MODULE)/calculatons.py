@@ -31,3 +31,6 @@ def ye(year):
         print(year, " is a leap year")
     else:
         print(year," is not leap year")
+        
+def d(a,b):
+    return a/b
